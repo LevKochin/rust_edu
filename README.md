@@ -4,9 +4,9 @@
 
 Базовые упражнения взяты из https://doc.rust-lang.ru/book/ch03-05-control-flow.html
 
-1. Celsius To Farengate Converter
-2. Fibonacci
-3. Twelve days of Christmas
+1. [Celsius To Fahrenheit Converter](./c_to_f_converter)
+2. [Fibonacci](./fibonacci)
+3. [Twelve Days of Christmas](./cristmas_song)
 
 Перед выполнением, изучены темы:
 
