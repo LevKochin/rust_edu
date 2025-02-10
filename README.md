@@ -2,12 +2,8 @@
 
 ## Образовательная сборка проектов для освоения Rust
 
-### Базовые упражнения взяты из https://doc.rust-lang.ru/book/ch03-05-control-flow.html
-
-1. [Celsius To Fahrenheit Converter](./c_to_f_converter)
-2. [Fibonacci](./fibonacci)
-3. [Twelve Days of Christmas](./cristmas_song)
-
+#### Задачи
+Базовые упражнения взяты из https://doc.rust-lang.ru/book/ch03-05-control-flow.html
 Перед выполнением, изучены темы:
 
 1. [Установка и запуск](https://doc.rust-lang.ru/book/ch01-00-getting-started.html)
@@ -15,13 +11,34 @@
    образовательный ресурс.
 3. [Общие концепции программирования](https://doc.rust-lang.ru/book/ch03-00-common-programming-concepts.html)
 
-### В процессе выполнения
+#### Задача 1
+
+```text
+Конвертация температур между значениями по Фаренгейту к Цельсию.
+```
+[Решение](./c_to_f_converter)
+
+#### Задача 2
+
+```text
+Генерирование n-го числа Фибоначчи.
+```
+
+[Решение](./fibonacci)
+
+#### Задача 3
+
+```text
+Распечатайте текст рождественской песни "Двенадцать дней Рождества", воспользовавшись повторами в песне.
+```
+
+[Решение](./cristmas_song)
 
 Упражнения на главе 8.3 Общие коллекции https://doc.rust-lang.ru/book/ch08-00-common-collections.html
 Перед выполнением необходимо изучить от и до темы в диапазоне от 4 до 8.3
 Начало темы -> https://doc.rust-lang.ru/book/ch04-00-understanding-ownership.html
 
-#### Задача 1
+#### Задача 4
 
 Описание задачи
 
@@ -32,9 +49,9 @@
 HashMap будет полезна в данном случае).
 ```
 
-[Решение](https://github.com/LevKochin/rust_edu/tree/processing/mean_median_mode)
+[Решение](./mean_median_mode)
 
-#### Задача 2
+#### Задача 5
 
 Описание задачи
 
@@ -45,9 +62,9 @@ HashMap будет полезна в данном случае).
 Помните о деталях работы с кодировкой UTF-8!
 ```
 
-[Решение](https://github.com/LevKochin/rust_edu/tree/processing/pig_latin)
+[Решение](./pig_latin)
 
-#### Задача 3
+#### Задача 6
 
 Описание задачи
 
@@ -57,3 +74,5 @@ HashMap будет полезна в данном случае).
 Затем позвольте пользователю получить список всех людей из отдела или всех людей в компании, 
 отсортированных по отделам в алфавитном порядке.
 ```
+
+[Решение](./employee_app)
