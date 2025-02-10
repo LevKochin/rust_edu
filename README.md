@@ -45,6 +45,8 @@ HashMap будет полезна в данном случае).
 Помните о деталях работы с кодировкой UTF-8!
 ```
 
+[Решение](https://github.com/LevKochin/rust_edu/tree/processing/pig_latin)
+
 #### Задача 3
 
 Описание задачи
